@@ -2,3 +2,4 @@
 repo github demo test
 new line from github GUI
 New line from locat git repo.
+ERROR
